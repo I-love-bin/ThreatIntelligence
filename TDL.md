@@ -1,1 +1,3 @@
 * [ ] Actors TTPs
+* [ ] Gathering IoC
+* [ ] 
