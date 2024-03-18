@@ -1,0 +1,13 @@
+ODEINFOLDR Type2 samples in VT
+
+md5: 6728bf8339def2d8c7d2deaa3d648429
+name: JSESPR.dll
+TimeStamp: Sun Nov 26 18:50:18 2023
+md5: 4d8348aa231bcdc94fac2a1e956d893b
+name: JSESPR.dll
+TimeStamp: Mon Aug 07 18:21:56 2023
+
+Flow: DllMain() -> Patch 5bytes of  JsSchHlp.exe(Probably)-> RC4
+
+
+https://twitter.com/8th_grey_owl/status/1769529376146694560?t=YULQwxZjp1OEBXvuTqY3wg&s=19
